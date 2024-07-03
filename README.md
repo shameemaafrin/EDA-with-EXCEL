@@ -39,13 +39,13 @@ Florida (FL) and Texas (TX) showed the highest frequencies of hurricane landfall
 ### Data Cleaning Techniques Used
 Employed Excel functions such as SUBSTITUTE and Text to Columns to clean the data.
 
-<img width="496" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/5e9e201c-b858-4dc7-90ad-7ee9370c0f96">
+<img width="509" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/5e9e201c-b858-4dc7-90ad-7ee9370c0f96">
 
 <img width="509" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/fc631292-b829-47b9-904a-82835cec062a">
 
-<img width="471" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/85932e22-ec5c-4d75-8b02-41cc82094a7a">
+<img width="509" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/85932e22-ec5c-4d75-8b02-41cc82094a7a">
 
-<img width="494" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/6964740a-93f9-46e3-b578-3a972fa231d3">
+<img width="509" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/6964740a-93f9-46e3-b578-3a972fa231d3">
 
 Utilized UNIQUE and FLATTEN functions to summarize state counts effectively, revealing the distribution of hurricane impacts across different states.
 
