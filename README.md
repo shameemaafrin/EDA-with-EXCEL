@@ -17,15 +17,17 @@ Category 1 hurricanes occur most frequently, suggesting that lower category hurr
 ### Statistical Analysis of Hurricane Intensity:
 
 Central Pressure and Max Winds:
+
 <img width="485" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/231ee399-6457-4ffe-af68-88dd77dadf78">
 
-<img width="481" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/7e78f751-fe53-4560-8171-552a74867380">
+<img width="485" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/7e78f751-fe53-4560-8171-552a74867380">
 
 The mean, median, and range for central pressure were calculated as 965.08, 966, and 111 respectively.
 For max winds, the values were 89.19 (mean), 90 (median), and 95 (range).
+
 Correlation between Central Pressure and Max Winds:
 
-<img width="455" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/be5e3672-7b16-4807-be4f-5a3640a53c72">
+<img width="493" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/be5e3672-7b16-4807-be4f-5a3640a53c72">
 
 <img width="493" alt="image" src="https://github.com/shameemaafrin/EDA-with-EXCEL/assets/77144007/d789a4f1-34f8-489f-ab10-c6d83c0b8a8f">
 
